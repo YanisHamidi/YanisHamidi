@@ -19,8 +19,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postman,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,postman,mysql,postgresql" /><br>
 </div>
 
 <br/>
